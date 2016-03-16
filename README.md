@@ -1,2 +1,2 @@
 # Layout-Management
-This class was an introduction to layout managers. 
+This class is a introduction to layout managers. 
